@@ -2,7 +2,7 @@
 
 **Data Analyst Junior**
 
-##💪 Competances 
+##💪Competances 
 - **Languages** : Python, R, SQL
 - **Outils** : Ecxel, Power BI, Stata, SPSS
 ## Projets
